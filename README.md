@@ -54,21 +54,38 @@ We aim to bring together **enthusiasts, drivers, and explorers** through memorab
 
     
 ✨ Features
+
 🎨 Beautiful, responsive, and minimal UI
+
 ⚡ Lightning-fast performance with Next.js
+
 📱 Mobile-first design using Tailwind CSS
+
 🧭 Dynamic routing and server-side rendering
+
 🔍 SEO optimized
+
 🧱 Modular architecture (components, hooks, lib separation)
 
+
+
+
 👤 Author
+
 Southern Experience India
+
 🏁 Developed and maintained by passionate off-road and tech enthusiasts.
+
 📍 Based in Karnataka, India
+
 🔗 Live Website
+
 Follow us on Instagram → @southern_offroader
 
 
+
 📄 License
+
 This project is licensed under the MIT License.
+
 You are free to use, modify, and share with attribution.
